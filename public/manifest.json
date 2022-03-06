@@ -1,11 +1,11 @@
 {
-  "short_name": "PancakeSwap",
-  "name": "PancakeSwap",
-  "description": "Farm CAKE with Pancake LP Tokens",
-  "homepage_url": "https://pancakeswap.finance",
+  "short_name": "MEFVSwap",
+  "name": "Meta Farm Verse",
+  "description": "Enter the Metaverse With $MEFV",
+  "homepage_url": "https://exchange.metafarmverse.finance",
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#1FC7D4",
+  "theme_color": "#36db5c",
   "background_color": "#ffffff",
   "orientation": "portrait",
   "icons": [
