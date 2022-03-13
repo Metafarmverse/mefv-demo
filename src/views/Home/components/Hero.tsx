@@ -105,7 +105,7 @@ const Hero = () => {
         id="homepage-hero"
       >
         <Flex flex="1" flexDirection="column">
-          <Heading scale="xxl" color="secondary" mb="24px">
+          <Heading scale="xxl" color="#36db5c" mb="24px">
             {t('Farming Protocol built in the Metaverse for everyone')}
           </Heading>
           <Heading scale="md" mb="24px">
