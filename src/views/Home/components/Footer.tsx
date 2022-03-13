@@ -81,5 +81,3 @@ const bottomRightImage = {
 }
 
 
-
-export default Footer
