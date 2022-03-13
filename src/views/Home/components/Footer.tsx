@@ -79,5 +79,16 @@ const bottomRightImage = {
     { src: '2-right', alt: 'Pancake flying on the right' },
   ],
 }
+const Footer = () => {
+  const { t } = useTranslation()
+  const { account } = useWeb3React()
 
+  return (
+    <>
+      
+    </>
+  )
+}
+
+export default Footer
 
