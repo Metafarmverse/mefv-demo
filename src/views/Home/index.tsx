@@ -73,7 +73,7 @@ const Home: React.FC = () => {
         innerProps={{ style: { margin: '0', width: '100%' } }}
         background={
           theme.isDark
-            ? 'linear-gradient(180deg, #0a7422 22%, #071120 100%)'
+            ? 'linear-gradient(180deg, #071120 22%, #0a7422 100%)'
             : 'linear-gradient(180deg, #FFFFFF 22%, #071120 100%)'
         }
         index={2}
@@ -112,7 +112,7 @@ const Home: React.FC = () => {
         innerProps={{ style: HomeSectionContainerStyles }}
         background={
           theme.isDark
-            ? 'linear-gradient(180deg, #36db5c 0%, #091115 100%)'
+            ? 'linear-gradient(180deg, #36db5c 0%, #071120 100%)'
             : 'linear-gradient(180deg, #36db5c 0%, #EAF2F6 100%)'
         }
         index={2}
