@@ -73,8 +73,8 @@ const Home: React.FC = () => {
         innerProps={{ style: { margin: '0', width: '100%' } }}
         background={
           theme.isDark
-            ? 'linear-gradient(180deg, #09070C 22%, #201335 100%)'
-            : 'linear-gradient(180deg, #FFFFFF 22%, #D7CAEC 100%)'
+            ? 'linear-gradient(180deg, #0a7422 22%, #071120 100%)'
+            : 'linear-gradient(180deg, #FFFFFF 22%, #071120 100%)'
         }
         index={2}
         hasCurvedDivider={false}
@@ -88,7 +88,7 @@ const Home: React.FC = () => {
         hasCurvedDivider={false}
       >
         <OuterWedgeWrapper>
-          <InnerWedgeWrapper top fill={theme.isDark ? '#36db5c' : '#D8CBED'}>
+          <InnerWedgeWrapper top fill={theme.isDark ? '#36db5c' : '#0a7422'}>
             <WedgeTopLeft />
           </InnerWedgeWrapper>
         </OuterWedgeWrapper>
