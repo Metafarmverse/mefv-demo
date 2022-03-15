@@ -104,7 +104,6 @@ const Home: React.FC = () => {
             <WedgeTopRight />
           </InnerWedgeWrapper>
         </OuterWedgeWrapper>
-        <SalesSection {...earnSectionData(t)} />
         <FarmsPoolsRow />
       </PageSection>
       <PageSection
