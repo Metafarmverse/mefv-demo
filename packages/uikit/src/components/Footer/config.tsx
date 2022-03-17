@@ -80,7 +80,7 @@ export const socials = [
   {
     label: "Twitter",
     icon: TwitterIcon,
-    href: "https://twitter.com/pancakeswap",
+    href: "https://twitter.com/metafarmverse",
   },
   {
     label: "Telegram",
@@ -88,63 +88,27 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/pancakeswap",
+        href: "https://t.me/metafarmverse",
       },
       {
         label: "Bahasa Indonesia",
-        href: "https://t.me/PancakeSwapIndonesia",
+        href: "https://t.me/mefvIndonesia",
       },
       {
         label: "中文",
-        href: "https://t.me/PancakeSwap_CN",
+        href: "https://t.me/mefvchina",
       },
       {
         label: "Tiếng Việt",
-        href: "https://t.me/PancakeSwapVN",
-      },
-      {
-        label: "Italiano",
-        href: "https://t.me/pancakeswap_ita",
-      },
-      {
-        label: "русский",
-        href: "https://t.me/pancakeswap_ru",
-      },
-      {
-        label: "Türkiye",
-        href: "https://t.me/pancakeswapturkiye",
-      },
-      {
-        label: "Português",
-        href: "https://t.me/PancakeSwapPortuguese",
+        href: "https://t.me/mefvvietnam",
       },
       {
         label: "Español",
-        href: "https://t.me/PancakeswapEs",
-      },
-      {
-        label: "日本語",
-        href: "https://t.me/pancakeswapjp",
-      },
-      {
-        label: "Français",
-        href: "https://t.me/pancakeswapfr",
-      },
-      {
-        label: "Datch",
-        href: "https://t.me/PancakeSwap_DE",
-      },
-      {
-        label: "Filipino",
-        href: "https://t.me/Pancakeswap_Ph",
-      },
-      {
-        label: "ქართული ენა",
-        href: "https://t.me/PancakeSwapGeorgia",
+        href: "https://t.me/mefvspain",
       },
       {
         label: "Announcements",
-        href: "https://t.me/PancakeSwapAnn",
+        href: "https://t.me/metafarmv",
       },
     ],
   },
